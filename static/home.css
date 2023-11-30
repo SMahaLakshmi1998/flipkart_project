@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+    width: 98%;
+}
+
+.nav_left img{
+width: 7rem;
+}
+.nav_left p{
+    margin-left: 2rem;
+}
+.explore{
+
+    color: gray;
+    margin-right:7px;
+}
+.plus{
+    color: orange;
+}
+.nav_middle img{
+    width: 20px;}
+    
+
+.nav_middle input{
+    border: none; 
+    font-size: 20px;
+    width: 500px;
+    background-color: aliceblue; 
+    padding-left: 15px;} 
+    
+
+.nav_middle{
+    border-radius: 3px solid black; 
+    background-color: aliceblue;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+.nav_right{
+    display: flex;
+    gap:50px; 
+    justify-content: space-between;
+    
+}
+.seller{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.signin{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dots{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.section_nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top:1% ;
+    background-color: white;
+}
+.second_part{
+    display: flex;
+    justify-content: space-around;
+    border:5px solid white;
+    padding: 15px;
+    font-size: 100%;
+    font-weight: 2rem;
+    align-items: center;
+
+    text-align: center;
+}
+.second_part img{
+    width: 80%;
+}
+.thrid_part img{
+    width: 100%;
+}
+.appliances img{
+    
+    align-items: center;
+    width: 45%;
+}
+.mobile{
+    display: flex;
+}
+.second_mobile{
+    
+    display: flex; 
+    justify-content:space-between;
+    gap: 55px;
+    margin-top: 22px;
+}
+.second_mobile img{
+    width: 100%;
+}
+.motorola{
+    border: 2px solid #f1f3f6;
+    width:100%;
+    text-align: center;
+    padding-top: 10px;
+    line-height: normal;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 6px; 
+}
+
+.nova img{
+    width: 75%;
+    height: 85%;
+   
+}
+.best_mobile{
+    margin-left: 10px;
+}
+.big_mobile{
+     width:15rem ;
+     height:15rem; 
+     display: flex;
+     justify-content: space-between;
+     gap:50px;
+     margin-left: 10px;
+
+}
+.cosmetics1{
+    display:flex;
+    width: 12rem;
+    height:12rem;
+    justify-content: space-between;
+    gap:25px;
+    margin-left: 10px;
+    border: 2px solid gray;
+    padding: 5px;
+}
+.cosmetics{
+    margin-top: 35px;
+}
+.top_deals{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.cosmetics_big{
+    width:15rem ;
+     height:15rem; 
+     display: flex;
+     justify-content: space-between;
+     gap:50px;
+     margin-left: 10px;
+     margin-top: 20px;
+
+}
+.Furnisings{
+    width: 22rem;
+    height: 22rem;
+    display: flex;
+    gap:15px;
+    
+}
+.home_decor1{
+    width:15rem ;
+     height:15rem; 
+     display: flex;
+     justify-content: space-between;
+     gap:50px;
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.home_decor{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.featured_brands{
+    margin-top: 10px;
+    margin-left: 1rem;
+}
+.brands{
+    margin-top: 10px;
+    gap: 15rem;
+    }
+.festive_wear{
+    width: 15rem;
+    height: 15rem;
+    display: flex;
+    border: 2px solid gray;
+}
+.festive_wear1{
+    width: 15rem;
+    height: 15rem;
+    display: flex;
+    border: 2px solid gray;
+}
+.specs{
+    width:10rem;
+    height: 50px;
+}
+.whole{
+    display: grid;
+}
+.seller button{
+    border:2px solid green;
+    margin-right: 5px;
+    width: 4rem;
+}
+.under h3{
+    color: grey;
+}
+.under p{
+    color:white;
+}
+.under_score{
+    background-color:grey;
+}
+.under1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 1px;
+}
+.under{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    background-color:gray;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    line-height: 25px;
+}

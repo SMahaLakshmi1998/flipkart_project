@@ -1,0 +1,345 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+}
+.cointainer{
+    width: 98%;
+}
+.container1{
+    background-color: blue;
+}
+.flipkart{
+    color:white;
+    margin-left: 65px;
+}
+
+.explore{
+    color:white;
+    margin-right: 10px;
+}
+.plus{
+    color:orange;
+}
+.flipkart_right{
+    margin-left: 20px;
+}
+.flipkart_right p{
+    margin-left: 4rem;
+
+}
+.flipkart_midle img{
+    width:20px;
+}
+.flipkart_midle input{
+    border: none;
+    border-color:black;
+    font-size: 18px;
+    padding-left: 5px;
+    
+}
+.flipkart_midle{
+    border: 2px solid blue;
+    width:35rem;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 3px;
+}
+.login{
+    color:blue;
+    border: 2px solid white;
+    width: 60px;
+    height: 50px;
+    margin-right: 25rem;
+    padding-left: 5px;
+    background-color: white;
+    
+}
+.seller h4{
+    color: white;
+    /* margin-right: 5rem; */
+    
+}
+
+ .seller{ 
+    display: flex; 
+     gap: 10px; 
+ } 
+.flipkart_left{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.container1{
+    display: flex;
+    gap:50px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.diwali img{
+    width: 100rem;
+    
+}
+.sbi img{
+    width:98rem;
+}
+.tv img{
+    width: 15rem;
+}
+.second_part {
+    gap: 15px;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 55px;
+    border: none;
+    
+}
+.Entertain{
+    color: grey;
+}
+.tele{
+    color:lightskyblue;
+}
+.home{
+    margin-left: 15px;
+}
+.sort{
+    display: flex;
+    gap:20px;
+    margin-top: 5px;
+}
+.popularity1 img{
+    width: 15rem;
+}
+
+.popularity_words{
+    margin-left: 25px;
+}
+.os{
+    line-height: 22px;
+    margin-top: 5px;
+}
+.ratings{
+    background-color: green;
+    margin-right: 5px;
+    padding:2px;
+    
+}
+.compare{
+    margin-left:1rem;
+    margin-bottom: 2rem;
+    margin-top: 7px;
+}
+.amount{
+    margin-left: 40px;
+    line-height: 25px;
+}
+.popularity{
+    display: flex;
+    margin-top: 25px;
+}
+.amt{
+    text-decoration: line-through;
+    margin-right: 15px;
+}
+.amt1{
+    color: green;
+}
+.bank{
+    color: green;
+}
+.popularity assured img{
+    width: 40%;
+    height: 40%;
+}
+.marq{
+    display: flex;
+    margin-top: 15px;}
+.marq img{
+    width: 15rem;
+}
+.marq assured {
+    width: 5rem;
+    height: 5rem;   
+}
+
+.marq_words{
+    margin-left: 15px;
+}
+.realme{
+    display: flex;
+    margin-top: 25px;
+}
+.realme img{
+    width: 15rem;
+}
+.realme_words{
+    margin-left: 15px;
+}
+.sony{
+    display: flex;
+    margin-top: 25px;
+}
+.sony_words{
+    margin-left: 15px;
+}
+
+.quantum{
+    display: flex; 
+    margin-top: 25px;
+}
+.quantum_words{
+    margin-left: 15px;
+}
+.tcl{
+    display: flex; 
+    margin-top: 25px;
+}
+.tcl_words{
+    margin-left: 15px;
+}
+.falconn{
+    display: flex; 
+    margin-top: 25px;
+}
+.falconn_words{
+    margin-left: 15px;
+}
+.quantum{
+    display: flex; 
+    margin-top: 25px;
+}
+.quantum_words{
+    margin-left: 15px;
+}
+.thomson{
+    display: flex; 
+    margin-top: 25px;
+}
+.thomson_words{
+    margin-left: 15px;
+}
+.infinix{
+    display: flex; 
+    margin-top: 25px;
+}
+.infinix_words{
+    margin-left: 15px;
+}
+.oneplus{
+    display: flex; 
+    margin-top: 25px;
+}
+.oneplus_words{
+    margin-left: 15px;
+}
+.infinix img{
+    width: 15rem;
+}
+.oneplus img{
+    width: 15rem; 
+}
+.thomson img{
+    width: 15rem; 
+}
+.quantum img{
+    width: 15rem; 
+}
+.falconn img{
+    width: 15rem; 
+}
+.tcl img{
+    width: 15rem; 
+}
+.sony img{
+    width: 15rem;
+}
+.filter hr{
+    width: 13rem;
+    color: grey;
+}
+.filter{
+    line-height: 25px;
+}
+.televisions{
+    margin-left: 10px;
+}
+.select_name{
+    display: flex;
+}
+.to{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.search img{
+    width:20px;
+    height:20px;
+}
+.search{
+    display: flex;
+}
+.filter{
+    border: 2px solid grey;
+     width:14rem;
+    margin-top: 5px; 
+    margin-left: 6px;
+    padding-left: 2px;
+    
+    line-height: 50px;
+    height: 155rem;    
+    
+}
+.assured1 img{
+    width:5rem;
+    height:5rem;
+}
+.under{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    background-color: blue;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    line-height: 25px;
+}
+.under1{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-top: 1px;
+}
+.become{
+    margin-right: 2rem;
+}
+.Advertise{
+    margin-right: 2rem;
+}
+.gift{
+    margin-right: 2rem;
+}
+.center{
+    margin-right: 2rem;   
+}
+.under h3{
+    color: grey;
+}
+.under p{
+    color:white;
+}
+.under_score{
+    background-color: blue;
+}
+.whole{
+    display: flex;
+    margin-top: 20PX;
+}
+.Wholesale{
+    margin-left: 25px;
+}
+
+
